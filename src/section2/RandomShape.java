@@ -42,8 +42,13 @@ public static void main(String[] args) {
 			
 	
 }
+	for(int i=0;i<16;i++) {
+		E.setPenColor(255, 153, 170);
+		E.move(100);
+			E.turn(a);
+			E.turn(3);
 }
 
-
+}
 
 }
